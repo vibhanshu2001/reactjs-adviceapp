@@ -43,10 +43,11 @@
     align-items: center;
     cursor: pointer;
     text-transform: uppercase;
+    margin: 30px;
     /* height: 200px; */
     width: 210px;
-    padding: 10px;
     opacity: 1;
+    padding: 10px;
     background-color: #ffffff;
     border: 1px solid rgba(22, 76, 167, 0.6);
   }
